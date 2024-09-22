@@ -1,0 +1,59 @@
+{
+  "spells":[
+    {
+      "aspect1": "harmonica",
+      "aspect2": "terroris",
+      "name": "kill"
+    },
+    {
+      "aspect1": "sheptum",
+      "aspect2": "nergy",
+      "name": "kill"
+    },
+    {
+      "aspect1": "nergy",
+      "aspect2": "terroris",
+      "name": "kill"
+    },
+    {
+      "aspect1": "sheptum",
+      "aspect2": "filtra",
+      "name": "heal"
+    },
+    {
+      "aspect1": "harmonica",
+      "aspect2": "nergy",
+      "name": "heal"
+    },
+    {
+      "aspect1": "filtra",
+      "aspect2": "terroris",
+      "name": "heal"
+    },
+    {
+      "aspect1": "lumiu",
+      "aspect2": "nergy",
+      "name": "create"
+    },
+    {
+      "aspect1": "lumiu",
+      "aspect2": "harmonica",
+      "name": "create"
+    },
+    {
+      "aspect1": "harmonica",
+      "aspect2": "filtra",
+      "name": "create"
+    },
+    {
+      "aspect1": "lumiu",
+      "aspect2": "terroris",
+      "name": "remove"
+    },
+    {
+      "aspect1": "lumiu",
+      "aspect2": "sheptum",
+      "name": "remove"
+    }
+  ]
+}

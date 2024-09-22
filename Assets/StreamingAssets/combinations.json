@@ -1,0 +1,154 @@
+{
+  "combinations": [
+    {
+      "aspect1": "ruinus",
+      "aspect2": "hordii",
+      "result": "harmonica"
+    },
+    {
+      "aspect1": "ruinus",
+      "aspect2": "agero",
+      "result": "terroris"
+    },
+    {
+      "aspect1": "ruinus",
+      "aspect2": "dalur",
+      "result": "sheptum"
+    },
+    {
+      "aspect1": "hordii",
+      "aspect2": "agero",
+      "result": "nergy"
+    },
+    {
+      "aspect1": "hordii",
+      "aspect2": "dalur",
+      "result": "filtra"
+    },
+    {
+      "aspect1": "agero",
+      "aspect2": "dalur",
+      "result": "lumiu"
+    },
+    {
+      "aspect1": "ruinus",
+      "aspect2": "harmonica",
+      "result": "terroris"
+    },
+    {
+      "aspect1": "ruinus",
+      "aspect2": "terroris",
+      "result": "sheptum"
+    },
+    {
+      "aspect1": "ruinus",
+      "aspect2": "sheptum",
+      "result": "filtra"
+    },
+    {
+      "aspect1": "ruinus",
+      "aspect2": "filtra",
+      "result": "lumiu"
+    },
+    {
+      "aspect1": "ruinus",
+      "aspect2": "lumiu",
+      "result": "nergy"
+    },
+    {
+      "aspect1": "ruinus",
+      "aspect2": "nergy",
+      "result": "harmonica"
+    },
+    {
+      "aspect1": "hordii",
+      "aspect2": "harmonica",
+      "result": "lumiu"
+    },
+    {
+      "aspect1": "hordii",
+      "aspect2": "lumiu",
+      "result": "nergy"
+    },
+    {
+      "aspect1": "hordii",
+      "aspect2": "nergy",
+      "result": "filtra"
+    },
+    {
+      "aspect1": "hordii",
+      "aspect2": "filtra",
+      "result": "sheptum"
+    },
+    {
+      "aspect1": "hordii",
+      "aspect2": "sheptum",
+      "result": "terroris"
+    },
+    {
+      "aspect1": "hordii",
+      "aspect2": "terroris",
+      "result": "harmonica"
+    },
+    {
+      "aspect1": "agero",
+      "aspect2": "harmonica",
+      "result": "nergy"
+    },
+    {
+      "aspect1": "agero",
+      "aspect2": "nergy",
+      "result": "lumiu"
+    },
+    {
+      "aspect1": "agero",
+      "aspect2": "lumiu",
+      "result": "terroris"
+    },
+    {
+      "aspect1": "agero",
+      "aspect2": "terroris",
+      "result": "sheptum"
+    },
+    {
+      "aspect1": "agero",
+      "aspect2": "sheptum",
+      "result": "filtra"
+    },
+    {
+      "aspect1": "agero",
+      "aspect2": "filtra",
+      "result": "harmonica"
+    },
+    {
+      "aspect1": "dalur",
+      "aspect2": "harmonica",
+      "result": "filtra"
+    },
+    {
+      "aspect1": "dalur",
+      "aspect2": "filtra",
+      "result": "terroris"
+    },
+    {
+      "aspect1": "dalur",
+      "aspect2": "terroris",
+      "result": "sheptum"
+    },
+    {
+      "aspect1": "dalur",
+      "aspect2": "sheptum",
+      "result": "lumiu"
+    },
+    {
+      "aspect1": "dalur",
+      "aspect2": "lumiu",
+      "result": "nergy"
+    },
+    {
+      "aspect1": "dalur",
+      "aspect2": "nergy",
+      "result": "harmonica"
+    }
+  ]
+}
